@@ -14,14 +14,23 @@ Software Engineer with strong backend expertise, business acumen, and an entrepr
 
 ## Learning
 
-I teach myself CS and systems while I ship. Two directions, simply:
+I teach myself CS and systems while I ship. Two directions:
 
-- **Top-down** — start from a working product path (a request, a payment, a failure) and learn what each layer is for.
-- **Bottom-up** — when something is fuzzy, go to the engine: OS, databases, networking, reliability.
+**Top-down** — start from a working path (a request, a payment, a failure) and learn what each layer is for.
+
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [professional-programming](https://github.com/charlax/professional-programming)
+
+**Bottom-up** — when something is fuzzy, go to the engine (OS, databases, networking).
+
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [OSSU computer science](https://github.com/ossu/computer-science)
+- [linux](https://github.com/torvalds/linux) · [postgres](https://github.com/postgres/postgres) · [mongo](https://github.com/mongodb/mongo)
+- *Designing Data-Intensive Applications* (DDIA)
 
 I turn what sticks into **mental models** in a private vault, and I’ll publish the clear ones later with Obsidian Publish.
-
-Sample of what I use: [OSSU](https://github.com/ossu/computer-science), [Teach Yourself CS](https://teachyourselfcs.com/), [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), DDIA, and upstream code (Postgres, Mongo, Linux, Node).
 
 ## Education
 

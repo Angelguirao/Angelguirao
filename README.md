@@ -14,20 +14,13 @@ Based in Madrid.
 
 - [`concurrently` `#644`](https://github.com/open-cli-tools/concurrently/pull/644) — `--show` output whitelist (merged). Prefer small, finishable PRs on tools I actually run; next on the same ladder (pino, mongoose, …).
 
-## Learning (self-directed)
+## Learning
 
-No CS degree — I build depth on purpose. An expanding shelf of resources I study and contribute toward (GitHub Lists on this profile):
+No CS degree — I study computer science and software engineering on purpose.
 
-| Shelf | What it’s for |
-| --- | --- |
-| [study-systems](https://github.com/stars/Angelguirao/lists/study-systems) | OS, databases, runtimes, networking — engines I open to understand foundations |
-| [study-curriculum](https://github.com/stars/Angelguirao/lists/study-curriculum) | Learning maps, books, build-your-own paths |
-| [study-skills](https://github.com/stars/Angelguirao/lists/study-skills) | Agent / workflow craft I steal patterns from |
-| [interview](https://github.com/stars/Angelguirao/lists/interview) | Behavioral, system design, DSA, backend Q banks |
-| [contribute](https://github.com/stars/Angelguirao/lists/contribute) | Upstream repos on my OSS ladder |
-| [watch-ai](https://github.com/stars/Angelguirao/lists/watch-ai) | AI runtimes and tools I operate, not “AI as identity” |
+I keep a private knowledge vault where production work and deliberate study meet: CS2023-shaped areas, systems sources (databases, OS, reliability, networking), and **mental models** — named lenses I can reuse in a design review, not flashcards of APIs. The philosophy is dual: top-down through real systems (how a request earns trust and money) and bottom-up when a gap shows (what the machine, the store, or the failure mode actually is).
 
-Core threads right now: data / Mongo·Postgres literacy, reliability (retries, idempotency), resource management (pools, overload), and how serverless pretends to be a machine. Books and primary sources rotate with that focus (e.g. DDIA, OS texts, the upstream READMEs above).
+Most of that stays private until a model is clear enough to teach. I plan to publish the durable ones with **Obsidian Publish** — a public lattice of mental models and glossary, not a blog dump of tickets.
 
 ## Education
 
@@ -37,3 +30,4 @@ Core threads right now: data / Mongo·Postgres literacy, reliability (retries, i
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/angelguirao/)
+- [X / Twitter](https://x.com/angel_gs_gs) — [@angel_gs_gs](https://x.com/angel_gs_gs)

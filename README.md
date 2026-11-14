@@ -16,7 +16,7 @@ Hi — I build software and evaluate AI systems. Backend engineer working on pro
 
 I teach myself CS and systems while I ship. Two directions:
 
-**Top-down** — start from a system I already care about (day-job stack, a real request path) and dig into what each layer is doing — [blub studies](https://www.benkuhn.net/blub/).
+**Top-down** — start from a system I already care about (day-job stack, a real request path) and dig into what each layer is doing.
 
 - [In defense of blub studies](https://www.benkuhn.net/blub/) (Ben Kuhn)
 - [professional-programming](https://github.com/charlax/professional-programming)

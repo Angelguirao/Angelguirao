@@ -2,8 +2,6 @@
 
 Hi — I build software and evaluate AI systems. Backend engineer working on products at scale (2M+ users). Previously a founder and venture analyst.
 
-Software Engineer with strong backend expertise, business acumen, and an entrepreneurial mindset.
-
 ## Work
 
 - **Webel** — backend for a home-services marketplace (APIs, payments, multi-tenant accounts, reliability).

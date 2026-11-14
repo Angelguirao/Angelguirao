@@ -16,14 +16,14 @@ Software Engineer with strong backend expertise, business acumen, and an entrepr
 
 I teach myself CS and systems while I ship. Two directions:
 
-**Top-down** — start from a working path (a request, a payment, a failure) and learn what each layer is for.
+**Top-down** — start from a system I already care about (day-job stack, a real request path) and dig into what each layer is doing. Building something small is optional; **studying the tools I ship with** is the main move ([blub studies](https://www.benkuhn.net/blub/)).
 
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [In defense of blub studies](https://www.benkuhn.net/blub/) (Ben Kuhn)
 - [professional-programming](https://github.com/charlax/professional-programming)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) — when a lab helps the question stick
 
-**Bottom-up** — when something is fuzzy, go to the engine (OS, databases, networking).
+**Bottom-up** — when something is fuzzy, go to the engine (OS, databases, networking) and build up.
 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)

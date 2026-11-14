@@ -37,4 +37,3 @@ Core threads right now: data / Mongo·Postgres literacy, reliability (retries, i
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/angelguirao/)
-- [angelguirao.com](https://angelguirao.com)

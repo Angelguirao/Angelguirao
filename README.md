@@ -25,6 +25,7 @@ I teach myself CS and systems while I ship. Two directions:
 
 **Bottom-up** — when something is fuzzy, go to the engine (OS, databases, networking).
 
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [OSSU computer science](https://github.com/ossu/computer-science)
 - [linux](https://github.com/torvalds/linux) · [postgres](https://github.com/postgres/postgres) · [mongo](https://github.com/mongodb/mongo)

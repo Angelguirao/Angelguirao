@@ -1,12 +1,12 @@
 # Ángel Guirao
 
-Hi — I build software and evaluate AI systems. Backend engineer working on products at scale (2M+ users). Previously a startup founder and venture analyst in open source.
+Hi — I build software and evaluate AI systems. Backend engineer working on products at scale (2M+ users). Previously a startup founder and venture analyst.
 
 ## Work
 
 - **Webel** (full-time) — backend for a home-services marketplace.
 - **Labelbox** (freelance) — AI evaluation.
-- Earlier: startup founder (litigation finance marketplace) and venture analyst in open source.
+- Earlier: startup founder (litigation finance marketplace) and venture analyst.
 
 ## Open source
 

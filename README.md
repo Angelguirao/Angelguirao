@@ -4,7 +4,7 @@ Hi — I build software and evaluate AI systems. Backend engineer working on pro
 
 ## Work
 
-- [**Webel**](https://appwebel.com/) (full-time) — backend for a home-services marketplace.
+- [**Webel**](https://appwebel.com/) (full-time) — backend for a venture-backed home-services marketplace ([news](https://tech.eu/2026/03/17/webel-closes-eur43m-funding-round-for-its-home-services-platform/)).
 - [**Labelbox**](https://labelbox.com/) (freelance) — AI evaluation.
 - Earlier: startup founder (litigation finance marketplace) and venture analyst.
 

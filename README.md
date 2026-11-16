@@ -14,7 +14,9 @@ Hi — I build software and evaluate AI systems. Backend engineer working on pro
 
 ## Learning
 
-I teach myself CS and systems while I ship. Two directions:
+I teach myself CS while I ship by turning what sticks into mental models in [Here Be Dragons](https://publish.obsidian.md/here-be-dragons/Home), my Obsidian vault.
+
+Two directions:
 
 **Top-down** — start from a system I already care about (day-job stack, a real request path) and dig into what each layer is doing.
 
@@ -31,8 +33,6 @@ I teach myself CS and systems while I ship. Two directions:
 - [OSSU computer science](https://github.com/ossu/computer-science)
 - [linux](https://github.com/torvalds/linux) · [postgres](https://github.com/postgres/postgres) · [mongo](https://github.com/mongodb/mongo)
 - *Designing Data-Intensive Applications* (DDIA)
-
-I turn what sticks into mental models in an Obsidian vault.
 
 ## Education
 

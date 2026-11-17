@@ -14,7 +14,7 @@ Hi — I build software and evaluate AI systems. Backend engineer working on pro
 
 ## Learning
 
-I teach myself CS while I ship by turning what sticks into mental models in [Here Be Dragons](https://publish.obsidian.md/here-be-dragons/Home), my Obsidian vault.
+I teach myself CS while I ship by turning what sticks into mental models in [Here Be Dragons](https://herebedragons.page/), my Obsidian vault.
 
 Two directions:
 
